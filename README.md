@@ -1,5 +1,5 @@
 # REST API Base skeleton 
-I use this as a template for my backend projects
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -26,7 +26,7 @@ I use this as a template for my backend projects
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) I use this as a template for my backend projects
 
 ## Installation
 
